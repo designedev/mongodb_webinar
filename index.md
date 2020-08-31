@@ -1,4 +1,4 @@
-## Index
+### Index
 
 - [GeoSpartial Index(2D)](url)
 - [GeoSpartial Index(2Dsphere)](url)
